@@ -3,9 +3,9 @@ package git_project;
 public class Count {
 
 
-  public void count(int parameter, String name){
-    //age = 2;
-    System.out.println("Counting the countless "+parameter);
-    System.out.println("name: " + name);
-  }
-}
+ moni-twoparam
+  public void count(int age){
+    System.out.println(age);
+    System.out.println("Hello world! / please push this to my branch");
+ }
+
