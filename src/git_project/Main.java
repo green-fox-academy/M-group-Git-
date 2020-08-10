@@ -6,4 +6,8 @@ public class Main {
         future.future();
     }
 
+    public static void main(String[] args) {
+
+    }
+
 }
