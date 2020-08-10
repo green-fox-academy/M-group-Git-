@@ -3,7 +3,7 @@ package git_project;
 public class Count {
 
 
-  public void count(){
-    System.out.println(35);
+  public void count(int age){
+    System.out.println(age);
   }
 }
